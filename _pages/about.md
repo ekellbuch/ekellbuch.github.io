@@ -31,6 +31,6 @@ I'm a Postdoctoral Scholar at Stanford University working with [Scott Linderman]
 
 I completed my PhD at Columbia University's [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I worked with [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](https://stat.columbia.edu/~cunningham/). I also spent time as a Student Researcher at Google, working with the Reliable Deep Learning team on evaluating the reliability of Large Language and Vision Models.
 
-My research contributions include developing machine learning systems for functional imaging, pose estimation, and behavioral segmentation. This work has been adopted by organizations including Q-state Biosciences, the Internal Brain Laboratory, and the Zuckerman Institute.
+My research contributions include developing machine learning systems for functional imaging, pose estimation, and behavioral segmentation. This work has been adopted by organizations including Q-state Biosciences, the International Brain Laboratory, and the Zuckerman Institute.
 
 I earned my BS and MS with Honors in Electrical Engineering from KU.
