@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://stanford.edu'>Stanford University</a>. Postdoctoral Scholar. Machine Learning & Neuroscience.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Stanford University</p>
+    <p>Postdoctoral Scholar</p>
+    <p>kelly.buchanan@stanford.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Postdoctoral Scholar at Stanford University working with [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/~chrismre/). My research focuses on building efficient and reliable systems for scientific discovery through machine learning and large language models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my PhD at Columbia University's [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I worked with [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](https://stat.columbia.edu/~cunningham/). I also spent time as a Student Researcher at Google, working with the Reliable Deep Learning team on evaluating the reliability of Large Language and Vision Models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research contributions include developing machine learning systems for functional imaging, pose estimation, and behavioral segmentation. This work has been adopted by organizations including Q-state Biosciences, the Internal Brain Laboratory, and the Zuckerman Institute.
+
+I earned my BS and MS with Honors in Electrical Engineering from KU.
