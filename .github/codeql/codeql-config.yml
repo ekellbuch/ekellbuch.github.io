@@ -1,4 +1,4 @@
 name: "CodeQL config"
 
 paths-ignore:
-  - "_scripts/**/*.js"  # Exclude Jekyll template JavaScript files
+  - "_scripts/**/*.js"  # Exclude Jekyll/Liquid template files from JavaScript analysis
