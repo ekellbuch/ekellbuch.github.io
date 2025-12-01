@@ -3,12 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: # the website title (if blank, full name will be used instead)
-first_name: Kelly
+first_name: E. Kelly
 middle_name:
 last_name: Buchanan
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Scholar at Stanford University working with Scott Linderman and Christopher Ré. Building efficient and reliable systems for scientific discovery through machine learning and large language models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -263,8 +262,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Buchanan]
+  first_name: [E. Kelly]
 
   style: apa
   locale: en
