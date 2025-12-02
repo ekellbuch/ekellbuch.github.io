@@ -22,7 +22,7 @@ latest_posts:
 
 I'm a Postdoctoral Scholar at Stanford University working with [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/~chrismre/). I’m interested in building reliable and efficient AI systems that augment humans.
 
-LLMs today are powerful, but fragile: they fail silently, misjudge their own outputs, and struggle with long-horizon tasks. I aim to address these challenges by developing the foundations of reliable agentic systems, systems that can recognize what they do/not know, can verify their own reasoning, remember what matters, and operate safely at scale.
+LLMs today are powerful, but fragile: they fail silently, misjudge their own outputs, and struggle with long-horizon tasks. I aim to address these challenges by developing the foundations of reliable agentic systems: systems that can recognize what they do/not know, can verify their own reasoning, remember what matters, and operate safely at scale.
 
 Some of my recent projects include:
 
@@ -34,4 +34,4 @@ I completed my PhD at Columbia University's [Center for Theoretical Neuroscience
 
 I also spent time as a Student Researcher at Google on the Reliable Deep Learning team, focusing on evaluating the reliability of [large language and vision models](https://research.google/blog/towards-reliability-in-deep-learning-systems/).
 
-I earned my Bacherlor's and Mater's degrees with Honors in Electrical Engineering from KU.
+I earned my Bacherlor's and Master's degrees with Honors in Electrical Engineering from the University of Kansas.
