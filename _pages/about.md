@@ -26,7 +26,8 @@ LLMs today are powerful, but fragile: they fail silently, misjudge their own out
 
 Some of my recent projects include:
 
-- Terminal-Bench [(Submitted, 2025)](https://www.tbench.ai/), a benchmark that offers realistic terminal environments for evaluating reasoning, planning and execution of agentic systems.
+- Terminal-Bench [(Submitted, 2025)](https://www.tbench.ai/), a benchmark including realistic terminal environments for evaluating reasoning, planning and execution of agentic systems. It is now a defacto standard for evaluating open/closed- sourced foundation models.
+
 
 - Weaver [(NeurIPS, 2025)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117007), a scalable verification framework that fuses many weak but cost-efficient verifiers(including LM judges) into a unified correctness estimate, closing the generation–verification gap.
 
