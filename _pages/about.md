@@ -20,19 +20,19 @@ latest_posts:
 
 ---
 
-I'm a Postdoctoral Scholar at Stanford University working with [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/~chrismre/). I’m interested in building reliable and efficient AI systems that augment humans.
+I'm a Postdoctoral Scholar at Stanford University working with [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/~chrismre/). I build reliable, efficient AI systems that meaningfully augment humans. What's the right form factor for human-AI collaboration? I'm betting on code.
 
-LLMs today are powerful, but fragile: they fail silently, misjudge their own outputs, and struggle with long-horizon tasks. I aim to address these challenges by developing the foundations of reliable agentic systems: systems that can recognize what they do/not know, can verify their own reasoning, remember what matters, and operate safely at scale.
+As AI systems become more autonomous tasks, reliability becomes the bottleneck. My work focuses on systems that can verify their own reasoning, quantify uncertainty, and operate safely at scale.
+
 
 Some of my recent projects include:
 
-- Terminal-Bench [(Submitted, 2025)](https://www.tbench.ai/), a benchmark including realistic terminal environments for evaluating reasoning, planning and execution of agentic systems. It is now a defacto standard for evaluating open/closed- sourced foundation models.
+- Terminal-Bench [(Submitted, 2025)](https://www.tbench.ai/), a benchmark for evaluating agentic systems in realistic terminal environments. Now widely used to test open and closed-source foundation models under real-world constraints.
 
+- Weaver [(NeurIPS, 2025)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117007), a verification framework that fuses weak but cost-efficient verifiers into unified correctness estimates, closing the generation–verification gap.
 
-- Weaver [(NeurIPS, 2025)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117007), a scalable verification framework that fuses many weak but cost-efficient verifiers(including LM judges) into a unified correctness estimate, closing the generation–verification gap.
+I completed my PhD at Columbia University's [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I worked with [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](https://stat.columbia.edu/~cunningham/). My research developed ML methods for functional imaging, pose estimation, and behavioral segmentation, used by organizations including [Q-state Biosciences](https://www.quiverbioscience.com/press), the [International Brain Laboratory](https://www.internationalbrainlab.com/), and the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/).
 
-I completed my PhD at Columbia University's [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I worked with [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](https://stat.columbia.edu/~cunningham/). My doctoral research developed machine learning methods for neuroscience, including advances in processing functional imaging datasets, animal pose estimation, and unsupervised behavioral segmentation. This work has been adopted by organizations including [Q-state Biosciences](https://www.quiverbioscience.com/press), the [International Brain Laboratory](https://www.internationalbrainlab.com/), and the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/), among others.
+I also spent time at Google on the [Reliable Deep Learning](https://research.google/blog/towards-reliability-in-deep-learning-systems/) team, evaluating reliability of large language and vision models.
 
-I also spent time as a Student Researcher at Google on the Reliable Deep Learning team, focusing on evaluating the reliability of [large language and vision models](https://research.google/blog/towards-reliability-in-deep-learning-systems/).
-
-I earned my Bacherlor's and Master's degrees with Honors in Electrical Engineering from the University of Kansas.
+I earned my Bachelor's and Master's degrees with Honors in Electrical Engineering from KU.
