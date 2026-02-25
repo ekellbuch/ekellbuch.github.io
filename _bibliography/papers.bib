@@ -1,38 +1,59 @@
 ---
 ---
 
-@misc{tbench_2025,
-      title={Terminal-Bench: A Benchmark for AI Agents in Terminal Environments}, 
-      url={https://github.com/laude-institute/terminal-bench}, 
-      author={The Terminal-Bench Team}, year={2025}, month={Apr},
-      website={https://www.tbench.ai/},
+@software{Harbor_Framework_Team_Harbor_A_framework_2026,
+      author = {{Harbor Framework Team}},
+      title = {{Harbor: A framework for evaluating and optimizing agents and models in container environments}},
+      journal = {In preparation},
+      code = {https://github.com/laude-institute/harbor},
+      website = {https://harborframework.com/},
+      year = {2026}
+}
+
+
+@inproceedings{tbench_2026,
+      title={Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces}, 
+      author={The Terminal-Bench Team},
+      booktitle={ICLR},
+      year={2026},
+      html={https://arxiv.org/abs/2601.11868},
       code={https://github.com/laude-institute/terminal-bench},
+      website={https://www.tbench.ai/},
       selected={true},
 } 
+
+
+@article{gonzalez2026unifyingframeworkparallelizingsequential,
+      title={A Unifying Framework for Parallelizing Sequential Models with Linear Dynamical Systems}, 
+      author={Xavier Gonzalez* and E. Kelly Buchanan* and Hyun Dong Lee and Jerry Weihong Liu and Ke Alexander Wang and David M. Zoltowski and Christopher Ré and Scott W. Linderman},
+      journal={TMLR},
+      year={2026},
+      html={https://arxiv.org/abs/2509.21716},
+      code={https://github.com/lindermanlab/lds_fxd_pts},
+      selected={true},
+}
 
 
 @inproceedings{
 saad-falcon2025weaver,
 title={Weaver: Shrinking the Generation-Verification Gap by Scaling Compute for Verification},
 author={Jon Saad-Falcon* and E. Kelly Buchanan* and Mayee F. Chen* and Tzu-Heng Huang and Brendan McLaughlin and Tanvir Bhathal and Shang Zhu and Ben Athiwaratkun and Frederic Sala and Scott Linderman and Azalia Mirhoseini and Christopher Ré},
-booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+booktitle={NeurIPS},
 year={2025},
 html={https://openreview.net/forum?id=dRjt4vlYVQ},
-blog={https://hazyresearch.stanford.edu/blog/2025-06-18-weaver},
 code={https://github.com/HazyResearch/scaling-verification},
+blog={https://hazyresearch.stanford.edu/blog/2025-06-18-weaver},
 selected={true},
 }
 
 
-@misc{gonzalez2025unifyingframeworkparallelizingsequential,
-      title={A Unifying Framework for Parallelizing Sequential Models with Linear Dynamical Systems}, 
-      author={Xavier Gonzalez* and E. Kelly Buchanan* and Hyun Dong Lee and Jerry Weihong Liu and Ke Alexander Wang and David M. Zoltowski and Christopher Ré and Scott W. Linderman},
-      year={2025},
-      eprint={2509.21716},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      html={https://arxiv.org/abs/2509.21716}, 
-      selected={true},
+@article{willett2024braintotext,
+      title={Brain-to-Text Benchmark '24: Lessons Learned},
+      author={Francis R. Willett and Jingyuan Li and Trung Le and Chaofei Fan and Mingfei Chen and Eli Shlizerman and Yue Chen and Xin Zheng and Tatsuo S. Okubo and Tyler Benster and Hyun Dong Lee and Maxwell Kounga and E. Kelly Buchanan and David Zoltowski and Scott W. Linderman and Jaimie M. Henderson},
+      journal={arXiv preprint arXiv:2412.17227},
+      year={2024},
+      html={https://arxiv.org/abs/2412.17227},
+      code={https://github.com/ekellbuch/deep_ssm},
 }
 
 
@@ -40,9 +61,10 @@ selected={true},
 jiang2025extracting,
 title={Extracting task-relevant preserved dynamics from contrastive aligned neural recordings},
 author={Yiqi Jiang and Kaiwen Sheng and Yujia Gao and E. Kelly Buchanan and Yu Shikano and Seung Je Woo and Yixiu Zhao and Tony Hyun Kim and Fatih Dinc and Scott Linderman and Mark Schnitzer},
-booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+booktitle={NeurIPS},
 year={2025},
-url={https://openreview.net/forum?id=uvTea5Rfek}
+html={https://openreview.net/forum?id=uvTea5Rfek},
+note={Spotlight Presentation}
 }
 
 
@@ -77,9 +99,10 @@ selected={false},
 saad-falcon2025an,
 title={An Architecture Search Framework for Inference-Time Techniques},
 author={Jon Saad-Falcon and Adrian Gamarra Lafuente and Shlok Natarajan and Nahum Maru and Hristo Todorov and Etash Kumar Guha and E. Kelly Buchanan and Mayee F Chen and Neel Guha and Christopher Ré and Azalia Mirhoseini},
-booktitle={Forty-second International Conference on Machine Learning},
+booktitle={ICML},
 year={2025},
 html={https://openreview.net/forum?id=EGrSMMj37o},
+code={https://github.com/ScalingIntelligence/Archon},
 selected={false},
 }
 
@@ -88,10 +111,10 @@ selected={false},
 abe2024pathologies,
 title={Pathologies of Predictive Diversity in Deep Ensembles},
 author={Taiga Abe and E. Kelly Buchanan and Geoff Pleiss and John Patrick Cunningham},
-journal={Transactions on Machine Learning Research},
+journal={TMLR},
 issn={2835-8856},
 year={2024},
-url={https://openreview.net/forum?id=TQfQUksaC8},
+html={https://openreview.net/forum?id=TQfQUksaC8},
 note={Featured Certification (Top 20% of all submissions)},
 selected={false},
 }
@@ -101,10 +124,11 @@ selected={false},
 abe2022deep,
 title={Deep Ensembles Work, But Are They Necessary?},
 author={Taiga Abe* and E. Kelly Buchanan*  and Geoff Pleiss and Richard Zemel and John Patrick Cunningham},
-booktitle={Advances in Neural Information Processing Systems},
+booktitle={NeurIPS},
 editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
 year={2022},
-url={https://openreview.net/forum?id=Wl1ZIgMqLlq},
+html={https://openreview.net/forum?id=Wl1ZIgMqLlq},
+code={https://github.com/cellistigs/interp_ensembles},
 selected={false},
 }
 
@@ -133,8 +157,8 @@ selected={false},
       primaryClass={cs.LG},
       html={https://arxiv.org/abs/2207.07411}, 
       code={https://github.com/google/uncertainty-baselines},
-      note={Spotlight Presentation},
       blog={https://ai.googleblog.com/2022/11/plex-towards-reliability-using.html},
+      note={Spotlight Presentation},
       selected={false},
 }
 
@@ -145,7 +169,7 @@ selected={false},
  pages = {6040--6052},
  publisher = {Curran Associates, Inc.},
  title = {Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking},
- url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/4379cf00e1a95a97a33dac10ce454ca4-Paper.pdf},
+ html = {https://proceedings.neurips.cc/paper_files/paper/2020/file/4379cf00e1a95a97a33dac10ce454ca4-Paper.pdf},
  volume = {33},
  year = {2020},
  selected={false},
@@ -159,5 +183,6 @@ selected={false},
   pages={334706},
   year={2018},
   publisher={Cold Spring Harbor Laboratory},
+  html={https://arxiv.org/abs/1807.06203},
   selected={false},
 }
