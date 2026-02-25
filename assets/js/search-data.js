@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
+        },{id: "nav-selected-publications",
+          title: "Selected Publications",
           description: "Selected publications by categories in reversed chronological order. See google scholar for a full list.",
           section: "Navigation",
           handler: () => {
