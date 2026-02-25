@@ -1,6 +1,48 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "E. Kelly Buchanan",
+  "alternateName": "Kelly Buchanan",
+  "url": "https://ekbuchanan.com",
+  "jobTitle": "Postdoctoral Scholar",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Stanford University"
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "Columbia University"
+    },
+    {
+      "@type": "Organization",
+      "name": "University of Kansas"
+    }
+  ],
+  "description": "Postdoctoral Scholar at Stanford University researching AI reliability, coding agents, and agentic systems. Developer of Terminal-Bench and Weaver.",
+  "sameAs": [
+    "https://github.com/ekellbuch",
+    "https://scholar.google.com/citations?user={{ site.scholar_userid }}",
+    "https://orcid.org/{{ site.orcid_id }}",
+    "https://twitter.com/{{ site.twitter_username }}"
+  ],
+  "knowsAbout": [
+    "AI Reliability",
+    "Machine Learning",
+    "Coding Agents",
+    "Agentic Systems",
+    "Computational Neuroscience",
+    "Terminal-Bench",
+    "Foundation Models"
+  ]
+}
+</script>
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
